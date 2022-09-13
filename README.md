@@ -2,7 +2,7 @@
 
 ## Overview
 
-Purpose
+Weather data analysis for the investor of a surf and ice cream shop. The investor wants to know what the weather trends are in the area in order to make a decision about whether or not the shop will be successful.
 
 ## Results
 
