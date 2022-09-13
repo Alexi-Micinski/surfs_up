@@ -20,7 +20,7 @@ Key differences between June and December:
 
 ## Summary
 
-High level summary.
+Temperatures are not that variable between summer and winter months at the surf shop location. The average temperature for all months is x degrees. The minimum temperature for all months is x degrees and the maximum is x degrees. Overall, the temperature is quite stable and warm enough to suggest good weather and therefore traffic to the surf shop. The average precipitation for all months is x inches?.
 
 Additional query 1
 
